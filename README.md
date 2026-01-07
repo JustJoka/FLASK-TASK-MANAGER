@@ -5,6 +5,7 @@ O projeto foi criado com foco em aprendizado prático de backend, organização 
 
 🚀 Funcionalidades
 <br>
+<br>
 👤 Autenticação<br>
 Cadastro de usuários<br>
 Login com email e senha<br>
@@ -13,7 +14,7 @@ Proteção de rotas (dashboard apenas para usuários logados)<br>
 <br>
 ✅ Tarefas
 <br>
-Criar tarefas)<br>
+Criar tarefas<br>
 Definir prioridade (Alta, Média, Baixa)<br>
 Listar tarefas por usuário<br>
 Marcar tarefas como concluídas<br>
