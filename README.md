@@ -4,15 +4,15 @@ TaskFlow é um gerenciador de tarefas web desenvolvido com Flask, SQLite e Boots
 O projeto foi criado com foco em aprendizado prático de backend, organização em camadas (routes, models e database) e boas práticas para aplicações web.
 
 🚀 Funcionalidades
-)<br>
+<br>
 👤 Autenticação<br>
 Cadastro de usuários<br>
 Login com email e senha<br>
 Controle de sessão com Flask<br>
 Proteção de rotas (dashboard apenas para usuários logados)<br>
-)<br>
+<br>
 ✅ Tarefas
-)<br>
+<br>
 Criar tarefas)<br>
 Definir prioridade (Alta, Média, Baixa)<br>
 Listar tarefas por usuário<br>
@@ -23,8 +23,8 @@ Excluir tarefas<br>
 <br>
 SQLite)<br>
 Relacionamento entre usuários e tarefas)<br>
-Chaves estrangeiras ativadas (PRAGMA foreign_keys = ON))<br>
-)<br>
+Chaves estrangeiras ativadas (PRAGMA foreign_keys = ON)<br>
+<br>
 🛠️ Tecnologias Utilizadas<br>
 <br>
 Python 3<br>
