@@ -5,36 +5,36 @@ O projeto foi criado com foco em aprendizado prático de backend, organização 
 
 🚀 Funcionalidades
 )<br>
-👤 Autenticação)<br>
-Cadastro de usuários)<br>
-Login com email e senha)<br>
-Controle de sessão com Flask)<br>
-Proteção de rotas (dashboard apenas para usuários logados))<br>
+👤 Autenticação<br>
+Cadastro de usuários<br>
+Login com email e senha<br>
+Controle de sessão com Flask<br>
+Proteção de rotas (dashboard apenas para usuários logados)<br>
 )<br>
 ✅ Tarefas
 )<br>
 Criar tarefas)<br>
 Definir prioridade (Alta, Média, Baixa)<br>
-Listar tarefas por usuário)<br>
-Marcar tarefas como concluídas)<br>
-Excluir tarefas)<br>
-)<br>
-🗄️ Banco de Dados)<br>
-)<br>
+Listar tarefas por usuário<br>
+Marcar tarefas como concluídas<br>
+Excluir tarefas<br>
+<br>
+🗄️ Banco de Dados<br>
+<br>
 SQLite)<br>
 Relacionamento entre usuários e tarefas)<br>
 Chaves estrangeiras ativadas (PRAGMA foreign_keys = ON))<br>
 )<br>
-🛠️ Tecnologias Utilizadas)<br>
-)<br>
-Python 3)<br>
-Flask)<br>
-SQLite)<br>
-HTML5)<br>
-CSS3)<br>
-Bootstrap 5)<br>
-Jinja2)<br>
-)<br>
+🛠️ Tecnologias Utilizadas<br>
+<br>
+Python 3<br>
+Flask<br>
+SQLite<br>
+HTML5<br>
+CSS3<br>
+Bootstrap 5<br>
+Jinja2<br>
+<br>
 📂 Estrutura do Projeto
 TaskFlow/<br>
 │<br>
@@ -78,20 +78,20 @@ python app.py
 5️⃣ Acesse no navegador
 http://127.0.0.1:5000
 
-🔐 Fluxo da Aplicação)<br>
-)<br>
-Usuário acessa a página de login)<br>
-Pode se registrar caso não tenha conta)<br>
-Após login:)<br>
-Sessão é criada)<br>
-Usuário é redirecionado para o dashboard)<br>
-)<br>
-No dashboard:)<br>
-Cria tarefas)<br>
-Visualiza apenas suas próprias tarefas)<br>
-Conclui ou exclui tarefas)<br>
-)<br>
-📸 Screenshots)<br>
+🔐 Fluxo da Aplicação<br>
+<br>
+Usuário acessa a página de login<br>
+Pode se registrar caso não tenha conta<br>
+Após login:<br>
+Sessão é criada<br>
+Usuário é redirecionado para o dashboard<br>
+<br>
+No dashboard:<br>
+Cria tarefas<br>
+Visualiza apenas suas próprias tarefas<br>
+Conclui ou exclui tarefas<br>
+<br>
+📸 Screenshots<br>
 
 ![Preview](https://github.com/JustJoka/FLASK-TASK-MANAGER/blob/main/TaskFlow/static/images/Screenshot%202026-01-07%20144240.png?raw=true)
 ![Preview](https://github.com/JustJoka/FLASK-TASK-MANAGER/blob/main/TaskFlow/static/images/Screenshot%202026-01-07%20144245.png?raw=true)
