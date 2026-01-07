@@ -22,8 +22,8 @@ Excluir tarefas<br>
 <br>
 🗄️ Banco de Dados<br>
 <br>
-SQLite)<br>
-Relacionamento entre usuários e tarefas)<br>
+SQLite<br>
+Relacionamento entre usuários e tarefas<br>
 Chaves estrangeiras ativadas (PRAGMA foreign_keys = ON)<br>
 <br>
 🛠️ Tecnologias Utilizadas<br>
