@@ -93,6 +93,12 @@ Conclui ou exclui tarefas
 
 📸 Screenshots
 
-![Preview](./static/images/login.png)
-![Preview](./static/images/dashboard.png)
+![Preview](https://github.com/JustJoka/FLASK-TASK-MANAGER/blob/main/TaskFlow/static/images/Screenshot%202026-01-07%20144240.png?raw=true)
+![Preview](https://github.com/JustJoka/FLASK-TASK-MANAGER/blob/main/TaskFlow/static/images/Screenshot%202026-01-07%20144245.png?raw=true)
+![Preview](https://github.com/JustJoka/FLASK-TASK-MANAGER/blob/main/TaskFlow/static/images/Screenshot%202026-01-07%20144251.png?raw=true)
+![Preview](https://github.com/JustJoka/FLASK-TASK-MANAGER/blob/main/TaskFlow/static/images/Screenshot%202026-01-07%20144310.png?raw=true)
+![Preview](https://github.com/JustJoka/FLASK-TASK-MANAGER/blob/main/TaskFlow/static/images/Screenshot%202026-01-07%20144326.png?raw=true)
+![Preview](https://github.com/JustJoka/FLASK-TASK-MANAGER/blob/main/TaskFlow/static/images/Screenshot%202026-01-07%20144337.png?raw=true)
+
+
 
