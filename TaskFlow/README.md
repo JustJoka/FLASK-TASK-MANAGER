@@ -4,37 +4,38 @@ TaskFlow é um gerenciador de tarefas web desenvolvido com Flask, SQLite e Boots
 O projeto foi criado com foco em aprendizado prático de backend, organização em camadas (routes, models e database) e boas práticas para aplicações web.
 
 🚀 Funcionalidades
-
-👤 Autenticação
-Cadastro de usuários
-Login com email e senha
-Controle de sessão com Flask
-Proteção de rotas (dashboard apenas para usuários logados)
-
+<br>
+<br>
+👤 Autenticação<br>
+Cadastro de usuários<br>
+Login com email e senha<br>
+Controle de sessão com Flask<br>
+Proteção de rotas (dashboard apenas para usuários logados)<br>
+<br>
 ✅ Tarefas
-
-Criar tarefas
-Definir prioridade (Alta, Média, Baixa)
-Listar tarefas por usuário
-Marcar tarefas como concluídas
-Excluir tarefas
-
-🗄️ Banco de Dados
-
-SQLite
-Relacionamento entre usuários e tarefas
-Chaves estrangeiras ativadas (PRAGMA foreign_keys = ON)
-
-🛠️ Tecnologias Utilizadas
-
-Python 3
-Flask
-SQLite
-HTML5
-CSS3
-Bootstrap 5
-Jinja2
-
+<br>
+Criar tarefas<br>
+Definir prioridade (Alta, Média, Baixa)<br>
+Listar tarefas por usuário<br>
+Marcar tarefas como concluídas<br>
+Excluir tarefas<br>
+<br>
+🗄️ Banco de Dados<br>
+<br>
+SQLite<br>
+Relacionamento entre usuários e tarefas<br>
+Chaves estrangeiras ativadas (PRAGMA foreign_keys = ON)<br>
+<br>
+🛠️ Tecnologias Utilizadas<br>
+<br>
+Python 3<br>
+Flask<br>
+SQLite<br>
+HTML5<br>
+CSS3<br>
+Bootstrap 5<br>
+Jinja2<br>
+<br>
 📂 Estrutura do Projeto
 TaskFlow/<br>
 │<br>
@@ -78,20 +79,20 @@ python app.py
 5️⃣ Acesse no navegador
 http://127.0.0.1:5000
 
-🔐 Fluxo da Aplicação
-
-Usuário acessa a página de login
-Pode se registrar caso não tenha conta
-Após login:
-Sessão é criada
-Usuário é redirecionado para o dashboard
-
-No dashboard:
-Cria tarefas
-Visualiza apenas suas próprias tarefas
-Conclui ou exclui tarefas
-
-📸 Screenshots
+🔐 Fluxo da Aplicação<br>
+<br>
+Usuário acessa a página de login<br>
+Pode se registrar caso não tenha conta<br>
+Após login:<br>
+Sessão é criada<br>
+Usuário é redirecionado para o dashboard<br>
+<br>
+No dashboard:<br>
+Cria tarefas<br>
+Visualiza apenas suas próprias tarefas<br>
+Conclui ou exclui tarefas<br>
+<br>
+📸 Screenshots<br>
 
 ![Preview](https://github.com/JustJoka/FLASK-TASK-MANAGER/blob/main/TaskFlow/static/images/Screenshot%202026-01-07%20144240.png?raw=true)
 ![Preview](https://github.com/JustJoka/FLASK-TASK-MANAGER/blob/main/TaskFlow/static/images/Screenshot%202026-01-07%20144245.png?raw=true)
@@ -99,6 +100,7 @@ Conclui ou exclui tarefas
 ![Preview](https://github.com/JustJoka/FLASK-TASK-MANAGER/blob/main/TaskFlow/static/images/Screenshot%202026-01-07%20144310.png?raw=true)
 ![Preview](https://github.com/JustJoka/FLASK-TASK-MANAGER/blob/main/TaskFlow/static/images/Screenshot%202026-01-07%20144326.png?raw=true)
 ![Preview](https://github.com/JustJoka/FLASK-TASK-MANAGER/blob/main/TaskFlow/static/images/Screenshot%202026-01-07%20144337.png?raw=true)
+
 
 
 
