@@ -36,29 +36,29 @@ Bootstrap 5
 Jinja2
 
 📂 Estrutura do Projeto
-TaskFlow/
-│
-├── app.py
-│
-├── database/
-│   └── database.py
-│
-├── models/
-│   ├── usuario_model.py
-│   └── tarefas_model.py
-│
-├── templates/
-│   ├── login.html
-│   ├── register.html
-│   └── dashboard.html
-│
-├── static/
-│   ├── styles.css
-│   └── images/
-│       └── background.jpg
-│
-└── tasks.db
-
+TaskFlow/<br>
+│<br>
+├── app.py<br>
+│<br>
+├── database/<br>
+│   └── database.py<br>
+│<br>
+├── models/<br>
+│   ├── usuario_model.py<br>
+│   └── tarefas_model.py<br>
+│<br>
+├── templates/<br>
+│   ├── login.html<br>
+│   ├── register.html<br>
+│   └── dashboard.html<br>
+│<br>
+├── static/<br>
+│   ├── styles.css<br>
+│   └── images/<br>
+│       └── background.jpg<br>
+│<br>
+└── tasks.db<br>
+<br>
 ⚙️ Como Executar o Projeto
 1️⃣ Clone o repositório
 git clone https://github.com/seu-usuario/taskflow.git
@@ -95,3 +95,4 @@ Conclui ou exclui tarefas
 
 ![Preview](./static/images/login.png)
 ![Preview](./static/images/dashboard.png)
+
